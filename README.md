@@ -2,11 +2,21 @@
 
 Python Telegram bot api, for learning
 
+# Getting Started
+
+At first, you need to install a package `pyTelegramBotAPI`.
+
+```
+$ pip3 install pyTelegramBotAPI
+```
+
 # Samples
 
 ## 01 sayHello
 
 Just receiving a message, and will reply.
+
+!(srcSample/01_sayHello.png)
 
 # Resources
 
