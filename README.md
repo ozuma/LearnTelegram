@@ -16,7 +16,7 @@ $ pip3 install pyTelegramBotAPI
 
 Just receiving a message, and will reply.
 
-!(srcSample/01_sayHello.png)
+![](srcSample/01_sayHello.png)
 
 # Resources
 
